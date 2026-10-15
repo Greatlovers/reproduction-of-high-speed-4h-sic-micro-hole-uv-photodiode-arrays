@@ -1,4 +1,4 @@
-# Fu 2023 SiC PIN Sentaurus reproduction study / calibrated baseline
+# Reproduction of “High-Speed and Responsivity 4H-SiC 8 × 8 p-i-n Ultraviolet Photodiode Arrays With Micro-Hole Structure”
 
 本仓库提供 Fu 等人 2023 年 4H-SiC 微孔紫外 PIN 光电二极管论文的 Figure 3、Figure 4 复现研究源工程，包括 SDE 几何与网格、SDevice 光谱和瞬态模型、Workbench 参数树、原生 SCW 校准与结果提取代码。
 
